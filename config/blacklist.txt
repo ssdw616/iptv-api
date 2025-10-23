@@ -1,14 +1,13 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
-https://stream1.freetv.fun
-https://www.freetv.top
-https://ldcctvwbcdks.v.kcdnvip.com
-http://j.x.bkpcp.top
+stream1.freetv.fun
+www.freetv.top
+ldcctvwbcdks.v.kcdnvip.com
+j.x.bkpcp.top
 .chinamobile.com
-http://gslbmgsplive.miguvideo.com
-http://ls.qingting.fm
+gslbmgsplive.miguvideo.com
+ls.qingting.fm
 动画
 咪咕直播
 少儿
-/88888888/
