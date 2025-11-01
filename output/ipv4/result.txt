@@ -1,32 +1,30 @@
 🕘️更新时间,#genre#
-2025-11-01 06:25:48,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv
+2025-11-02 06:23:56,http://113.106.171.234:8899/rtp/239.20.0.236:2270
 
 📺央视频道,#genre#
-CCTV-1,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-3,http://111.221.137.155:44330/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV-4,http://111.221.137.155:44330/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV-5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV-5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
+CCTV-9,http://sh.lnott.top:880/dx09.m3u8
+CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-13,http://sh.lnott.top:880/dx13.m3u8
+CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-13,http://106.53.99.30/tv/cctv13.php
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 📡卫视频道,#genre#
-浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8?key=txiptv
+广东卫视,http://111.221.137.155:44330/tsfile/live/0125_1.m3u8?key=txiptv
+湖南卫视,http://111.221.137.155:44330/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
-重庆卫视,http://sh.lnott.top:880/dx46.m3u8
-东南卫视,http://sh.lnott.top:880/dx47.m3u8
-海南卫视,http://sh.lnott.top:880/dx58.m3u8
-海南卫视,http://113.106.171.234:8899/rtp/239.20.0.155:2108
+黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
+东方卫视,http://111.221.137.155:44330/tsfile/live/0107_1.m3u8?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://111.221.137.155:44330/tsfile/live/0135_1.m3u8?key=txiptv
-山东卫视,http://111.221.137.155:44330/tsfile/live/0121_2.m3u8?key=txiptv
-深圳卫视,http://111.221.137.155:44330/tsfile/live/1013_1.m3u8?key=txiptv
+辽宁卫视,http://111.221.137.155:44330/tsfile/live/0121_1.m3u8?key=txiptv
 天津卫视,http://113.106.171.234:8899/rtp/239.20.0.89:3044
-天津卫视,http://111.221.137.155:44330/tsfile/live/0132_2.m3u8?key=txiptv
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-云南卫视,http://111.221.137.155:44330/tsfile/live/0116_1.m3u8?key=txiptv
+云南卫视,http://sh.lnott.top:880/dx49.m3u8
 
 ☘️河北频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
