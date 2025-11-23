@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 06:27:51,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-24 06:26:20,http://bxtv.3a.ink/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
@@ -26,12 +26,12 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 📡卫视频道,#genre#
+浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8
 广西卫视,http://112.6.239.227:8207/hls/32/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 
 ☘️河北频道,#genre#
