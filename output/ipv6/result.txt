@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 07:13:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-06 07:08:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -574,7 +574,6 @@ CCTV-17,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/0000000100000006000000000000
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
@@ -584,6 +583,7 @@ CCTV-17,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/0000000100000006000000000000
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
 凤凰香港,https://migu.188766.xyz/?migutoken=9ecafb73d10bfcb8654557f74c044d85&id=fhhk&pp=1
+凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd

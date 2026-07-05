@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 07:13:25,http://198.204.228.26/live/cctv1hd.m3u8
+2026-07-06 07:08:47,http://198.204.228.26/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
@@ -8,7 +8,6 @@ CCTV-3,http://192.151.150.154/live/cctv3hd.m3u8
 CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-5,http://111.8.224.6:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -16,18 +15,18 @@ CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV-7,http://198.204.228.26/live/cctv7hd.m3u8
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-7,http://www.negative.top:50000/rtp/233.50.200.102:5140
-CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
 CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://173.208.212.130:8181/720p/cctv10.m3u8
 CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
+CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=f499c99bfbd0d5b43b1d20ead24f5058&wsTime=6a452729&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260701224144E16D5A7566C0BF124425-aeSDux
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV-13,http://www.negative.top:50000/rtp/233.50.200.97:5140
-CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 
 📡卫视频道,#genre#
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
@@ -39,46 +38,43 @@ CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
-黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=9e03d442683b7ecf5b887926d8068438&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 安徽卫视,http://107.150.60.122/live/ahwshd.m3u8
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=737d49d36d25402fc57210b67903c168&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 重庆卫视,http://204.12.221.218:8181/3m1080p/cqws.m3u8
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
 东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
-东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=e890c2797595c6b2cee2f3fa1594cada&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 甘肃卫视,http://192.151.150.154/live/gswshd.m3u8
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
 吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
+江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
-江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 江西卫视,http://192.151.150.154/live/jxwshd.m3u8
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=2edc93d44f6405ce3dc9d315ba6b4e5b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
+内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
 内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
-内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
-青海卫视,http://192.151.150.154/live/qhws.m3u8
 青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
+青海卫视,http://192.151.150.154/live/qhws.m3u8
+山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=ba7fe0219ac4e9bd36a7d3ce5359b3c7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8
 山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8
-山东卫视,http://223.75.149.129:9906/tsfile/live/0131_1.m3u8?key=txiptv
 陕西卫视,http://198.204.228.26/live/snwshd.m3u8
-深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
 三沙卫视,http://198.204.228.26/live/ssws.m3u8
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
+天津卫视,https://live.264788.xyz/channel/tianjinweishi?streamid=d30a60392735d9a6ff2b72630d81c5d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 
